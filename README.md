@@ -5,7 +5,7 @@ This test project is designed to demonstrate proficiency in DevOps practices, in
 
 Your task is to set up a EC2 instance on AWS, configure a CI/CD pipeline to automate the deployment of the Next.js application to the EC2 instance, and ensure that the application is accessible via a web browser.
 
-For the purpose of this test, you will be provided with AWS IAM credentials that have the necessary permissions to create and manage EC2 instances and other required resources. These credentials should also be used to configure the CI/CD pipeline.
+For the purpose of this test, you will be provided with AWS IAM credentials that have the necessary permissions to create and manage EC2 instances and other required resources. These credentials should also be used to configure the CI/CD pipeline. Please also store Terraform state locally within the `terraform/` directory.
 
 
 ## Tasks
